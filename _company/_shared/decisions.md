@@ -28,3 +28,9 @@ _세션: 2026-05-08T11-36_
 - 매일 09:00 이메일 정기 점검
 - 필요 시 이메일 추출 허용
 _세션: 2026-05-11T00-46_
+
+## [2026-05-12] 영숙이가 지메일도 확인을 할수 있는 권한이 있을까?
+- Youngsuk has email access rights for management tasks
+- Email exchange with agents required for critical decisions
+- Mandatory reporting of email activities to management
+_세션: 2026-05-12T06-19_

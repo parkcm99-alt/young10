@@ -19,5 +19,18 @@
   },
   "instagram": {
     "activatedAt": "2026-05-11T00:20:48.589Z"
-  }
+  },
+  "business": {
+    "activatedAt": "2026-05-14T01:41:01.655Z",
+    "seeded_v3": true
+  },
+  "developer": {
+    "activatedAt": "2026-05-14T01:41:01.655Z",
+    "seeded_v3": true
+  },
+  "researcher": {
+    "activatedAt": "2026-05-14T01:41:01.655Z",
+    "seeded_v3": true
+  },
+  "_migrated_v3": true
 }
